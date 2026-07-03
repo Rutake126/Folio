@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Folio</string>
+    <string name="search_documents">搜索文档</string>
+    <string name="import_document">导入文档</string>
+    <string name="import_markdown_support">支持 Markdown 文档</string>
+    <string name="import_from_device">从本地导入</string>
+    <string name="recent_documents">最近使用</string>
+    <string name="all_documents">全部文档</string>
+    <string name="back">返回</string>
+    <string name="reset_defaults">恢复默认</string>
+    <string name="empty_documents">暂无文档</string>
+    <string name="delete">删除</string>
+    <string name="reader_ready">准备打开 %1$s</string>
+    <string name="external_link_title">打开外部链接</string>
+    <string name="open">打开</string>
+    <string name="cancel">取消</string>
+    <string name="large_page_warning">此页内容较大，渲染可能稍慢</string>
+    <string name="previous_page">上一页</string>
+    <string name="next_page">下一页</string>
+    <string name="load_remote_images">加载远程图片</string>
+    <string name="reader_zoom">阅读缩放</string>
+    <string name="done">完成</string>
+</resources>

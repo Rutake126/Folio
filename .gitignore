@@ -1,0 +1,9 @@
+.gradle/
+.idea/
+.kotlin/
+**/build/
+local.properties
+keystore.properties
+*.jks
+*.keystore
+stitch_folio_ios_document_reader/
